@@ -1,16 +1,17 @@
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 <h1>Alura Perfil</h1>
 
 # :pushpin: Sobre do projeto
 - `Formação` A partir do zero: HTML e CSS para projetos web
-- `Curso: React` HTML e CSS: Classes, posicionamento e Flexbox
+- `Curso ` HTML e CSS: Classes, posicionamento e Flexbox
+- `Curso ` HTML e CSS: Cabeçalho, footer e variáveis CSS
 </br></br>
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Mini perfil com HTML e CSS (Geral + Flex)
+- `Funcionalidade` Mini perfil com HTML e CSS
 </br></br>
 
 # :bookmark_tabs: Tecnologias
