@@ -84,6 +84,12 @@ body{
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
 }
+
+.img_foto{
+  height: 500px;
+  width: 500px;
+}
+
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
