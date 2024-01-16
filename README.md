@@ -6,12 +6,14 @@
 
 # :pushpin: Sobre do projeto
 - `Formação` A partir do zero: HTML e CSS para projetos web
+- `Curso ` HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags
 - `Curso ` HTML e CSS: Classes, posicionamento e Flexbox
 - `Curso ` HTML e CSS: Cabeçalho, footer e variáveis CSS
+- `Curso ` HTML e CSS: Trabalhando com responsividade e publicação do projetos
 </br></br>
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Mini perfil com HTML e CSS
+- `Funcionalidade` Mini perfil com HTML, CSS e responsividade
 </br></br>
 
 # :bookmark_tabs: Tecnologias
