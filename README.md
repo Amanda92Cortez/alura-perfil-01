@@ -25,4 +25,5 @@
 
 
 ## 📚Telas/Vídeos
-![Gif] (./assets/Perfil.gif)
+![image](https://github.com/Amanda92Cortez/alura-perfil-01/assets/19363871/c51e92cb-9afd-4eaa-b217-f34e586f5416)
+
