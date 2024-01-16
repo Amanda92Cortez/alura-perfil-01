@@ -25,4 +25,4 @@
 
 
 ## 📚Telas/Vídeos
-![Gif] ("/assets/Perfil.gif")
+![Gif] (./assets/Perfil.gif)
