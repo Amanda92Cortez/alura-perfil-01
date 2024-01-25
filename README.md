@@ -4,8 +4,10 @@
 
 <h1>Alura Perfil</h1>
 
-# :pushpin: Sobre do projeto
+# :pushpin: Formações
 - `Formação` A partir do zero: HTML e CSS para projetos web
+
+# :pushpin: Cursos
 - `Curso ` HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags
 - `Curso ` HTML e CSS: Classes, posicionamento e Flexbox
 - `Curso ` HTML e CSS: Cabeçalho, footer e variáveis CSS
