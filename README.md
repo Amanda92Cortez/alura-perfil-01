@@ -4,7 +4,7 @@
 
 <h1>Perfil - Alura</h1>
 
-# :pushpin: Formação
+# :pushpin: Formações
 - `Formação ` A partir do zero: HTML e CSS para projetos web
 
 # :pushpin: Cursos
