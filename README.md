@@ -19,9 +19,6 @@ Tela de detalhes
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-perfil-01/assets/19363871/c51e92cb-9afd-4eaa-b217-f34e586f5416)
 
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-perfil-01/tree/main) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-perfil-01/archive/refs/heads/main.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-perfil-01.git
 - ` Executar ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
